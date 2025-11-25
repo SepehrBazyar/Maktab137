@@ -1,0 +1,48 @@
+DEBUG - 2025-11-20 16:44:33,784 - CALLED
+WARNING - 2025-11-20 16:44:33,784 - INVALID DATA
+DEBUG - 2025-11-20 16:44:56,719 - CALLED
+ADDED
+ADDED
+ADDED
+ADDED
+ADDED
+ADDED
+ADDED
+ADDED
+ADDED
+ADDED
+ADDED
+Added New Number
+Added New Number
+Invalid Value
+Added New Number
+Added New Number
+Added New Number
+Invalid Value
+Added New Number
+Added New Number
+Added New Number
+Invalid Value
+Added New Number
+Added New Number
+Added New Number
+SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+Added New Number
+SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+Invalid Value
+Added New Number
+SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+__main__ - INFO - 55 -Added New Number
+__main__ - WARNING - 56 -SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+__main__ - INFO - 55 -Added New Number
+__main__ - WARNING - 56 -SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+__main__ - WARNING - 51 -Invalid Value
+__main__ - INFO - 55 -Added New Number
+__main__ - WARNING - 56 -SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+__main__ - INFO - 55 -Added New Number
+__main__ - WARNING - 56 -SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+__main__ - INFO - 55 -Added New Number
+__main__ - WARNING - 56 -SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
+__main__ - WARNING - 51 -Invalid Value
+__main__ - INFO - 55 -Added New Number
+__main__ - WARNING - 56 -SFEFEWFEWFEFFEFEFEFEFEWJF9EUFOPEWU90FE
