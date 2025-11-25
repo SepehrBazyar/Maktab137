@@ -25,6 +25,15 @@ brief_format = logging.Formatter("%(levelname)s - %(message)s")
 detail_format = logging.Formatter("%(name)s - %(levelname)s - %(lineno)d -%(message)s")
 
 
+def func(record: logging.LogRecord):
+    if len(record.msg) <= 20:
+        return record
+
+
+len_filter = logging.Filter("check_length")
+len_filter.filter = func
+
+stream_handler.addFilter(len_filter)
 
 stream_handler.setFormatter(brief_format)
 file_handler.setFormatter(detail_format)
