@@ -87,3 +87,25 @@ for item in basket_cart:
 
 # for item in basket_cart.items.items:
 #     print(item.total_price)
+
+
+def is_primal(number: int):
+    for i in range(2, number):
+        if number % i == 0:
+            return False
+
+    return True
+
+
+def get_primal(number: int):
+    # result = []
+    for i in range(2, number):
+        if is_primal(i):
+            # result.append(i)
+            yield i
+
+    # return result
+
+
+for item in get_primal(number=100_000):
+    print(item)
