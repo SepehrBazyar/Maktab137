@@ -12,4 +12,14 @@ def is_primal(number: int):
     return True
 
 
+def minimum(*args: int) -> int:
+    result = args[0]
+    for arg in args:
+        if arg <= result:
+            result = arg
+
+    return result
+
+
+# minimum(1,2,3,4,5)
 # print(is_primal(1))
