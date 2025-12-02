@@ -1,4 +1,7 @@
 def is_primal(number: int):
+    if number < 0:
+        raise ValueError("Not Negative")
+
     if number < 2:
         return False
 

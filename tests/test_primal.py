@@ -13,5 +13,9 @@ class TestPrimal(unittest.TestCase):
     def test_one_is_primal(self):
         self.assertFalse(is_primal(1))
 
+    def test_negative_is_primal(self):
+        with self.assertRaises(ValueError):
+            is_primal(-2)
+
 
 # unittest.main()
